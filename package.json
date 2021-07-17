@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Jose Manuel"
+	"author": "Jose Manuel",
+	"description": "A project that does something awesome"
 }

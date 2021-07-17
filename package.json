@@ -13,5 +13,6 @@
 	},
 	"author": "Jose Manuel",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "learning", "node" ]
+	"keywords": [ "freecodecamp", "learning", "node" ],
+	"license": "MIT"
 }

@@ -1,9 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"package-name": "version",
 		"express": "^4.14.0",
-		"moment": "2.14.0" 
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,7 +14,11 @@
 	},
 	"author": "Jose Manuel",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "learning", "node" ],
+	"keywords": [
+		"freecodecamp",
+		"learning",
+		"node"
+	],
 	"license": "MIT",
 	"version": "1.2.0"
 }
